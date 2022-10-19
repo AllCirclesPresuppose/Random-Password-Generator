@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    background: #1F2937;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    margin-left: 52px;
+}
+#header {
+        margin: 115px 0 10px 0;
+        font-family: 'Karla', sans-serif;
+}
+h1 {
+    margin: 0px;
+}
+p {
+    color: #D5D4D8
+}
+
+#special-color {
+    color: #10B981
+}
+
+button {
+    color: #D5D4D8;
+    background: #10B981;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 51px;
+    padding: 10px 15px;
+}
+
+#pass-lists {
+    width: 445px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;   
+    margin-bottom: 0px;
+}
+
+#copy-text {
+    width: 445px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -30px;
+}
+
+#password-length {
+    background: #273549;
+    border: 0;
+    padding: 5px;
+    margin: 5px;
+    color: #55F991
+}
+
+.output {
+    background: #273549;
+    padding: 6px 15px;
+    width: 170px;
+    text-align: center;
+    border-radius: 5px;
+    color: #55F991;
+    height: 20px;
+}
+
+#line-break {
+    margin: 35px 0 35px;
+    padding: 1px;
+    width: 445px;
+    background: #273549;
+}
